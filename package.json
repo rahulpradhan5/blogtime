@@ -4,7 +4,7 @@
   "description": "first project",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon server/server.js"
+    "start": "node server/server.js"
   },
   "author": "Rahul pradhan",
   "license": "ISC",
